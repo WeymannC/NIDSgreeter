@@ -1,0 +1,5 @@
+#! /bin/bash
+#
+# Simple greeting program
+
+echo "Hello Bob!"
