@@ -3,4 +3,4 @@
 # Simple greeting program
 
 name="Robert"
-echo "Hello ${name}!"
+echo "Hi ${name}!"
