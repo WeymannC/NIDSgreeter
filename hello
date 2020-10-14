@@ -2,5 +2,5 @@
 #
 # Simple greeting program
 
-name="Bob"
+name="Robert"
 echo "Hello ${name}!"
